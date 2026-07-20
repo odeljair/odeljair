@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Odel Jair 👋
 
-<!--
-**odeljair/odeljair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Informática del Instituto Universitario de la Paz (UNIPAZ) y actualmente me encuentro próximo a realizar mis prácticas profesionales.
 
-Here are some ideas to get you started:
+Disfruto comprender cómo funcionan los procesos, encontrar oportunidades de mejora y convertir las ideas en soluciones tecnológicas útiles para las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo web y automatización mientras construyo proyectos que me permitan crecer profesionalmente.
+
+---
+
+## Actualmente
+
+-  Aprendiendo Python y JavaScript.
+-  Fortaleciendo mis conocimientos en desarrollo web.
+-  Explorando la automatización de procesos.
+-  Buscando una práctica profesional.
+
+---
+
+## 📂 Proyectos
+
+En este perfil compartiré los proyectos que desarrolle durante mi proceso de aprendizaje y mi experiencia profesional.
+
+Cada proyecto representa una oportunidad para aprender, mejorar y construir soluciones útiles para las personas.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/odel-jair-pacheco
+- Correo: odelpacheco01@gmail.com
